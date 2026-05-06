@@ -1,8 +1,8 @@
 class Pteryx < Formula
   desc "Forensic file inspection tool for signatures and hash baselines"
   homepage "https://github.com/dtsivkovski/pteryx"
-  url "https://github.com/dtsivkovski/pteryx/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "f7cbd27eb9c9af0ebf95ceaf452efcc6d1b52715c2b8c65fb870ec3886bbbb07"
+  url "https://github.com/dtsivkovski/pteryx/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "bc36bbfd6013855424a0929794eab1b7777ac1b98baf7bed868adfce600ebdcc"
   license "MIT"
 
   depends_on "go" => :build
